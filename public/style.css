@@ -183,3 +183,18 @@ li {
   width: 49%;
   float: left;
 }
+
+.image-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em 0;
+}
+
+.picture-img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
